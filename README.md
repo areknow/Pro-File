@@ -1,7 +1,7 @@
 # Pro-File
 Measure Search Utility
 
-![alt text](http://arnaud.cr/profile/res/githeader.png)
+![alt text](http://pro-file.site/git.png)
 
 ## Installation
 This application requires PHP and a web server. Install the file structure in your www folder and access it through a browser.
